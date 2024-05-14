@@ -1,5 +1,5 @@
 # Introduction 
-Sample Application for PoC using Azure Congnitive Services (Document Intelligence Suite) for extracting data from PDF documents.
+Sample Application for PoC using Azure Congnitive Services (Document Intelligence) for extracting data from PDF documents.
 
 # Getting Started
 
